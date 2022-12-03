@@ -46,8 +46,7 @@ body{
     padding: 8px 12px;
     border-radius: 3px;
     }
-.nav-menu-link:hover,
-.nav-menu-link_active{
+.nav-menu-link:hover{
     background-color: bisque;
     transition: 0.5s;
     }
